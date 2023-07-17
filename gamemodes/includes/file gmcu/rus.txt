@@ -1,0 +1,35 @@
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(15381) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(51940) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(17) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(17) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1180) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1354) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1370) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1381) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1393) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1404) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1415) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1427) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1541) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1625) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1679) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(1821) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2150) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2439) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2525) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2542) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2680) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2689) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2738) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "WEAPON_BRASSKNUCKLE"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2748) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2760) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(2898) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "IsPlayerConnected"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(3032) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_VEHICLES"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta\gamemodes\includes\file gmcu\NGG.pwn(3032) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

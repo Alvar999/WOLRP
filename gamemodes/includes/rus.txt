@@ -1,0 +1,35 @@
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(16808) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(78194) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(21) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(21) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1401) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1575) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1591) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1602) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1614) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1625) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1636) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1648) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1762) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1846) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(1900) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2150) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2478) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2756) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2863) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2917) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SV_NULL"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2917) : îøèáêà 008: äîëæíî áûòü ïîñòîÿííûì âûðàæåíèåì; ïðèíÿò íîëü
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2918) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SV_NULL"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2966) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_VEHICLES"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2966) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2967) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_VEHICLES"
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(2967) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(3039) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Desktop2020\OneDrive\Desktop\GM_VIP\gta - Sao chép\gamemodes\includes\NGGnew.pwn(3080) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
